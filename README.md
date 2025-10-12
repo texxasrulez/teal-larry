@@ -2,7 +2,7 @@
 
 [![Packagist Downloads](https://img.shields.io/packagist/dt/texxasrulez/teal-larry?style=plastic&logo=packagist&logoColor=white&label=Downloads&labelColor=blue&color=gold)](https://packagist.org/packages/texxasrulez/teal-larry)
 [![Packagist Version](https://img.shields.io/packagist/v/texxasrulez/teal-larry?style=plastic&logo=packagist&logoColor=white&label=Version&labelColor=blue&color=limegreen)](https://packagist.org/packages/texxasrulez/teal-larry)
-[![Github License](https://img.shields.io/github/license/texxasrulez/teal-larry?style=plastic&logo=github&label=License&labelColor=blue&color=coral)](https://github.com/texxasrulez/teal-larry/LICENSE)
+[![Github License](https://img.shields.io/static/v1?style=plastic&logo=github&label=License&message=Creative%20Commons&labelColor=blue&color=coral)](https://github.com/texxasrulez/autumn-larry/blob/main/LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/texxasrulez/teal-larry?style=plastic&logo=github&label=Stars&labelColor=blue&color=deepskyblue)](https://github.com/texxasrulez/teal-larry/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/texxasrulez/teal-larry?style=plastic&logo=github&label=Issues&labelColor=blue&color=aqua)](https://github.com/texxasrulez/teal-larry/issues)
 [![GitHub Contributors](https://img.shields.io/github/contributors/texxasrulez/teal-larry?style=plastic&logo=github&logoColor=white&label=Contributors&labelColor=blue&color=orchid)](https://github.com/texxasrulez/teal-larry/graphs/contributors)
